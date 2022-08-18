@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    *{
+        padding: 0;
+        margin: 0;
+    }
+    .nav-bar{
+        background-color: #363940;
+        color: #ffffff;
+ 
+    }
+    .nav-bar img{
+        height: 45px;
+         float: left;
+        margin-right: 20px;
+    }
+    .menu-right{
+        text-align: right;
+    }
+    ul li{
+        display: inline-block;
+        margin: 20px;
+        list-style: none;  
+        font-family: sans-serif;  
+        text-decoration: uppercase;    
+    }
+   span{
+    margin: 0 20px;
+    font-size: 29px;
+    cursor: pointer;
+    display: none;
+   }
+   @media only screen and (max-width:700px){
+    span{
+        display: block;
+    }
+    ul li{
+        display: block;
+    }
+ 
+   }
+  
+</style>
+<body>
+    <div class="nav-bar">
+       <img src="img/3.2.png" alt="">
+        <div class="menu-right">
+            <span onclick="myfunction()">&#9776;</span>
+            <ul id="menu">
+                <li>Home</li>
+                <li>About</li>
+                <li>Services</li>
+                <li>Team</li>
+                <li>Contect</li>
+            </ul>        
+        </div>
+    </div>
+</body>
+<script>
+        function  myfunction(){
+            var x =document.getElementById("menu");
+            if(x.style.display == "block")
+            {
+                x.style.display = "none";
+            }
+            else
+            {
+                x.style.display = "block";
+            }
+        }
+</script>
+</html>
