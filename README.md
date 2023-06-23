@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **AWS**
+- 🔭 I’m currently working on **Business Portfolio Website Design**
 
 - 👨‍💻 All of my projects are available at [www.github.com/sehranrasooljan](www.github.com/sehranrasooljan)
 
-- 💬 Ask me about **AWS, EC2, LAMDA, DynamoDB, HTML, CSS, JavaScript, PHP, Node.js**
+- 💬 Ask me about **AWS, EC2, LAMDA, DynamoDB, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **sehranrasooljan@gmail.com**
 
