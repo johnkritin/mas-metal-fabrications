@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Business Portfolio Website Design**
 
-- 👨‍💻 All of my projects are available at [www.github.com/sehranrasooljan](www.github.com/sehranrasooljan)
+- 👨‍💻 All of my projects are available at [www.github.com/sehranrasooljan]
 
 - 💬 Ask me about **AWS, EC2, LAMDA, DynamoDB, HTML, CSS, JavaScript**
 
