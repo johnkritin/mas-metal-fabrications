@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Business Portfolio Website Design**
+- 🔭 I’m currently working on **Business Portfolio Website Design** www.masmetalfabrications.in
 
-- 👨‍💻 All of my projects are available at [www.github.com/sehranrasooljan]
+- 👨‍💻 All of my projects are available at www.github.com/sehranrasooljan
 
 - 💬 Ask me about **AWS, EC2, LAMDA, DynamoDB, HTML, CSS, JavaScript**
 
